@@ -4,6 +4,7 @@ let usr = {
  teach: function(){
   console.log(this.name+' is teaching');
  }
+}
  console.log(usr);
  console.log(usr['Occ']);
  console.log(usr.name);
